@@ -9,7 +9,7 @@ function App() {
   }
   return (
     <div className='container mt5'>
-      <p>{citacoes[indice].texto}</p>
+      <Citacao texto={citacoes[indice].texto} autor={citacoes[indice].autor} />
       <button className='btn btn-success mt2' onClick={proximaCitacao}>
         Próxima citação
       </button>
