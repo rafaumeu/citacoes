@@ -8,7 +8,8 @@
 
 # Tradutor de Citações
   [![2024-01-07_10-04](https://github.com/rafaumeu/album/assets/30784471/2f91d363-9ea5-4496-9f0a-76084bf0921d)](https://courageous-banoffee-38883a.netlify.app)
-    click na foto para acessar a aplicação
+    
+  click na foto para acessar a aplicação
 ## Descrição
 
 O Tradutor de Citações é uma aplicação simples e eficiente que permite traduzir citações facilmente para inglês e espanhol. Esta ferramenta foi desenvolvida para tornar o processo de tradução de citações mais rápido e acessível, proporcionando uma experiência intuitiva para os usuários.
